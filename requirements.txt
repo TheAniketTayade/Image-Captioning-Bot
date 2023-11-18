@@ -1,0 +1,29 @@
+# Web Framework
+Flask==1.1.2
+
+# Image Processing
+Pillow==8.1.0
+
+# Pre-trained Model
+torch==1.7.1
+clip==1.0
+
+# User Authentication
+Flask-Login==0.5.0
+
+# Database
+Flask-SQLAlchemy==2.5.1
+
+# Form Handling
+Flask-WTF==0.14.3
+
+# Deployment
+gunicorn==20.0.4
+
+# Cloud Platform
+boto3==1.16.63
+
+# Other
+requests==2.25.1
+numpy==1.19.5
+<FINAL_CODE>
